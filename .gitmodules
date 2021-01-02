@@ -1,0 +1,3 @@
+[submodule "external/cloudapi"]
+	path = external/cloudapi
+	url = https://github.com/yandex-cloud/cloudapi.git

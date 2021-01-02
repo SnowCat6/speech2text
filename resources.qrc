@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>media/cancel.wav</file>
+        <file>media/click_in.wav</file>
+        <file>media/click_out.wav</file>
+        <file>media/click_send.wav</file>
+        <file>media/error.wav</file>
+        <file>images/sound.png</file>
+        <file>images/sound_on.png</file>
+        <file>external/roots.pem</file>
+    </qresource>
+</RCC>

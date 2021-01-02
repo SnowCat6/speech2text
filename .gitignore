@@ -1,0 +1,33 @@
+/build/*
+/temp/*
+.vscode/
+
+.DS_Store
+._.DS_Store
+._*
+
+# soft link to packages/debian/
+/debian
+# temporary file with git repo version (current) before make sources archive (.tar.xz)
+.version.git
+
+*.pro.user
+*.pro.user.*
+*.txt.user
+*.qbs.user
+*.creator.user
+*.creator.user.*
+*.o
+*.a
+*.map
+*.lst
+*.log
+*.hex
+*.bin
+*.elf
+*.so
+*.exe
+*.dll
+*.autosave
+
+.qmake.stash
