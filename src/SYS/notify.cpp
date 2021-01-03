@@ -1,6 +1,7 @@
 #include "notify.h"
 #include <qdebug.h>
 #include <qcoreapplication.h>
+#include <qsoundeffect.h>
 
 Notify::Notify(QObject *parent) : QObject(parent)
 {

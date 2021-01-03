@@ -3,6 +3,7 @@
 
 #include <qapplication.h>
 #include <qlocale.h>
+#include <qaudioinput.h>
 
 BaseAPI::BaseAPI(QObject *parent) : QObject(parent)
 {
