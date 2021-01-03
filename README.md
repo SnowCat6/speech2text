@@ -4,4 +4,6 @@
 
 Пока только YandexAPI, но как будет время сделаю для GooleAPI, тем более технологии очень похожи.
 
-Работает под все платформы QT.
+Работает под все платформы QT5.
+
+![Application screen](https://github.com/SnowCat6/speech2text/blob/main/documents/app_screen.png)
